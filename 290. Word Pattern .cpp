@@ -1,15 +1,5 @@
-class Solution { //https://codeforces.com/api/user.info?handles=HelmyJr
+class Solution { // Author: Abdelrahman Helmy
 public:
-//===========================================
-/*
-  ██╗░░██╗███████╗██╗░░░░░███╗░░░███╗██╗░░░██╗
-  ██║░░██║██╔════╝██║░░░░░████╗░████║╚██╗░██╔╝
-  ███████║█████╗░░██║░░░░░██╔████╔██║░╚████╔╝░
-  ██╔══██║██╔══╝░░██║░░░░░██║╚██╔╝██║░░╚██╔╝░░
-  ██║░░██║███████╗███████╗██║░╚═╝░██║░░░██║░░░
-  ╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░░░░╚═╝░░░╚═╝░░░
-*/
-//============  CODE STARTS HERE  ============
     bool wordPattern(string pattern, string s) {
         vector<string> v;
         stringstream ss(s);
