@@ -1,4 +1,6 @@
-class Solution {  // Author: Abdelrahman Helmy
+// Author: Abdelrahman Helmy
+
+class Solution {
 public:
     int minimumRounds(vector<int>& tasks) {
         int ans=0;
