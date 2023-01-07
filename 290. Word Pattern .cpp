@@ -1,4 +1,6 @@
-class Solution { // Author: Abdelrahman Helmy
+// Author: Abdelrahman Helmy
+
+class Solution {
 public:
     bool wordPattern(string pattern, string s) {
         vector<string> v;
