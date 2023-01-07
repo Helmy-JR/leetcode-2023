@@ -1,4 +1,6 @@
-class Solution { //Author: Abdelrahman Helmy
+// Author: Abdelrahman Helmy
+
+class Solution {
 public:
     int minDeletionSize(vector<string>& v) {
         int n=v.size();  // rows
