@@ -1,5 +1,7 @@
+// Author: Abdelrahman Helmy
+
 #define all(vec) vec.begin(), vec.end()
-class Solution { //Author : Abdelrahman Helmy
+class Solution {
 public:
     int findMinArrowShots(vector<vector<int>>& points) {
         sort(all(points));
