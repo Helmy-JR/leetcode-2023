@@ -1,4 +1,6 @@
-class Solution { //Author: Abdelrahman Helmy
+// Author: Abdelrahman Helmy
+
+class Solution {
 public:
     bool detectCapitalUse(string s) {
         bool chk=isupper(s.front());
