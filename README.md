@@ -1,8 +1,6 @@
 # leetcode solutions 2023 -> Helmy_Jr  
 
 1. [290. Word Pattern](https://github.com/Helmy-JR/leetcode-2023/blob/main/290.%20Word%20Pattern%20.cpp)
-<br>
-<br>
 1. [520. Detect Capital](https://github.com/Helmy-JR/leetcode-2023/blob/main/520.%20Detect%20Capital%20.cpp)
 1. [944. Delete Columns to Make Sorted](https://github.com/Helmy-JR/leetcode-2023/blob/main/944.%20Delete%20Columns%20to%20Make%20Sorted%20.cpp)
 1. [2244. Minimum Rounds to Complete All Tasks](https://github.com/Helmy-JR/leetcode-2023/blob/main/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks%20.cpp)
