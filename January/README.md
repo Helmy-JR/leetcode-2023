@@ -1,4 +1,4 @@
-# January Daily-Challenge 
+# January Solved-Problems 
 1. [290. Word Pattern](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/290.%20Word%20Pattern%20.cpp)
 1. [520. Detect Capital](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/520.%20Detect%20Capital%20.cpp)
 1. [944. Delete Columns to Make Sorted](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/944.%20Delete%20Columns%20to%20Make%20Sorted%20.cpp)
