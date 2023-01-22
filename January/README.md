@@ -23,12 +23,5 @@
 
 ![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
 
-
-.markdown-body code, .markdown-body tt {
-    padding: 0.2em 0.4em;
-    margin: 0;
-    font-size: 85%;
-    white-space: break-spaces;
-    background-color: var(--color-neutral-muted);
-    border-radius: 6px;
-}
+zzzzzzzzz <br>
+zzzzzzzzzz
