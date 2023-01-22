@@ -22,3 +22,13 @@
 17. [491. Non-decreasing Subsequences](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/21%20-%20491.%20Non-decreasing%20Subsequences%20.cpp)  
 
 ![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
+
+
+.markdown-body code, .markdown-body tt {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    white-space: break-spaces;
+    background-color: var(--color-neutral-muted);
+    border-radius: 6px;
+}
