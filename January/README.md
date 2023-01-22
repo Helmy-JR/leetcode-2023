@@ -21,5 +21,6 @@
 15. [974. Subarray Sums Divisible by K](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/20%20-%20974.%20Subarray%20Sums%20Divisible%20by%20K%20.cpp)
 16. [491. Non-decreasing Subsequences](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/21%20-%20491.%20Non-decreasing%20Subsequences%20.cpp)  
 
-I need to highlight these ==very important words==.
 ![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
+
+I need to highlight these ==very important words==.
