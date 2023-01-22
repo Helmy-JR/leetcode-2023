@@ -10,7 +10,7 @@
 4. [144. Binary Tree Preorder Traversal](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/09%20-%20144.%20Binary%20Tree%20Preorder%20Traversal%20.cpp)
 5. [100. Same Tree .cpp](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/10%20-%20100.%20Same%20Tree%20.cpp)
 6. [1443. Minimum Time to Collect All Apples in a Tree](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/11%20-%201443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree%20.cpp)
-7. [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/12%20-%201519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label%20.cpp)
+7. [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/12%20-%201519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label%20.cpp) ![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
 8. [2246. Longest Path With Different Adjacent Characters](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/13%20-%202246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters%20.cpp)
 9. [1061. Lexicographically Smallest Equivalent String](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/14%20-%201061.%20Lexicographically%20Smallest%20Equivalent%20String%20.cpp)
 10. [2421. Number of Good Paths](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/15%20-%202421.%20Number%20of%20Good%20Paths%20.cpp)
@@ -21,4 +21,4 @@
 15. [974. Subarray Sums Divisible by K](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/20%20-%20974.%20Subarray%20Sums%20Divisible%20by%20K%20.cpp)
 16. [491. Non-decreasing Subsequences](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/21%20-%20491.%20Non-decreasing%20Subsequences%20.cpp)  
 
-![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
+
