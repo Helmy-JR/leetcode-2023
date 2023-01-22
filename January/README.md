@@ -24,5 +24,5 @@
 ![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
 
 
-[![Easy](https://img.shields.io/badge/easy-green)](https://leetcode.com/problems/two-sum/)
+[![Easy](https://img.shields.io/badge/easy-green)](https://leetcode.com/problems/two-sum/)  
 `string`
