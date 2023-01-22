@@ -23,4 +23,4 @@
 
 ![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+Some Markdown text with <span style="color:green">some *blue* text</span>.
