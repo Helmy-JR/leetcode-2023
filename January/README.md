@@ -24,3 +24,4 @@
 ![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
 
 <span style="color:green">EASY</span>
+[![Easy](https://img.shields.io/badge/easy-green)](https://github.com/)
