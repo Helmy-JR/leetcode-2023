@@ -3,12 +3,12 @@
 1. [520. Detect Capital](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/02%20-%20520.%20Detect%20Capital%20.cpp) [![Easy](https://img.shields.io/badge/easy-green)](https://leetcode.com/problems/detect-capital/)
 1. [944. Delete Columns to Make Sorted](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/03%20-%20944.%20Delete%20Columns%20to%20Make%20Sorted%20.cpp) [![Easy](https://img.shields.io/badge/easy-green)](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 1. [2244. Minimum Rounds to Complete All Tasks](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/04%20-%202244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
-1. [452. Minimum Number of Arrows to Burst Balloons](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/05%20-%20452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons%20.cpp)
-1. [1833. Maximum Ice Cream Bars](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/06%20-%201833.%20Maximum%20Ice%20Cream%20Bars%20.cpp)
-2. [134. Gas Station](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/07%20-%20134.%20Gas%20Station%20.cpp)
-3. [149. Max Points on a Line](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/08%20-%20149.%20Max%20Points%20on%20a%20Line%20.cpp)
-4. [144. Binary Tree Preorder Traversal](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/09%20-%20144.%20Binary%20Tree%20Preorder%20Traversal%20.cpp)
-5. [100. Same Tree .cpp](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/10%20-%20100.%20Same%20Tree%20.cpp)
+1. [452. Minimum Number of Arrows to Burst Balloons](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/05%20-%20452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+1. [1833. Maximum Ice Cream Bars](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/06%20-%201833.%20Maximum%20Ice%20Cream%20Bars%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/maximum-ice-cream-bars/)
+2. [134. Gas Station](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/07%20-%20134.%20Gas%20Station%20.cpp)[![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/gas-station/)
+3. [149. Max Points on a Line](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/08%20-%20149.%20Max%20Points%20on%20a%20Line%20.cpp) [![HARD](https://img.shields.io/badge/hard-red)](https://leetcode.com/problems/max-points-on-a-line/)
+4. [144. Binary Tree Preorder Traversal](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/09%20-%20144.%20Binary%20Tree%20Preorder%20Traversal%20.cpp) [![Easy](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+5. [100. Same Tree .cpp](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/10%20-%20100.%20Same%20Tree%20.cpp) [![Easy](https://img.shields.io/badge/easy-red)](https://leetcode.com/problems/same-tree/)
 6. [1443. Minimum Time to Collect All Apples in a Tree](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/11%20-%201443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree%20.cpp)
 7. [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/12%20-%201519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label%20.cpp) 
 9. [2246. Longest Path With Different Adjacent Characters](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/13%20-%202246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters%20.cpp)
@@ -24,7 +24,7 @@
 ![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
 
 
-[![Easy](https://img.shields.io/badge/easy-red)](https://leetcode.com/problems/two-sum/)  
+[![Easy](https://img.shields.io/badge/easy-red)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 [![HARD](https://img.shields.io/badge/hard-red)](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 `string`
