@@ -25,4 +25,6 @@
 
 
 [![Easy](https://img.shields.io/badge/easy-red)](https://leetcode.com/problems/two-sum/)  
+[![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+[![HARD](https://img.shields.io/badge/hard-red)](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 `string`
