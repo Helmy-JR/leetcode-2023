@@ -24,6 +24,7 @@
 19. [131. Palindrome Partitioning](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/23%20-%20131.%20Palindrome%20Partitioning%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/palindrome-partitioning/)
 20. [136. Single Number](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/24%20-%20136.%20Single%20Number%20.cpp) [![Easy](https://img.shields.io/badge/easy-green)](https://leetcode.com/problems/single-number/)
 21. [997. Find the Town Judge](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/25%20-%20997.%20Find%20the%20Town%20Judge%20.cpp) [![Easy](https://img.shields.io/badge/easy-green)](https://leetcode.com/problems/find-the-town-judge/)
+22. [909. Snakes and Ladders](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/26%20-%20909.%20Snakes%20and%20Ladders%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/snakes-and-ladders/)
 
 ![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
 
