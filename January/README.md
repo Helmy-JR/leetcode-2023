@@ -17,14 +17,18 @@
 12. [57. Insert Interval](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/16%20-%2057.%20Insert%20Interval%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/insert-interval/)
 13. [824. Goat Latin](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/17%20-%20824.%20Goat%20Latin%20.cpp) [![Easy](https://img.shields.io/badge/easy-red)](https://leetcode.com/problems/goat-latin/)
 14. [926. Flip String to Monotone Increasing](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/18%20-%20926.%20Flip%20String%20to%20Monotone%20Increasing%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
-15. [918. Maximum Sum Circular Subarray .cpp](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/19%20-%20918.%20Maximum%20Sum%20Circular%20Subarray%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+15. [918. Maximum Sum Circular Subarray](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/19%20-%20918.%20Maximum%20Sum%20Circular%20Subarray%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 16. [974. Subarray Sums Divisible by K](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/20%20-%20974.%20Subarray%20Sums%20Divisible%20by%20K%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 17. [491. Non-decreasing Subsequences](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/21%20-%20491.%20Non-decreasing%20Subsequences%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/non-decreasing-subsequences/)
+18. [93. Restore IP Addresses](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/22%20-%2093.%20Restore%20IP%20Addresses%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/restore-ip-addresses/)
+19. [131. Palindrome Partitioning](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/23%20-%20131.%20Palindrome%20Partitioning%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/palindrome-partitioning/)
+20. [136. Single Number](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/24%20-%20136.%20Single%20Number%20.cpp) [![Easy](https://img.shields.io/badge/easy-green)](https://leetcode.com/problems/single-number/)
+21. [997. Find the Town Judge](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/25%20-%20997.%20Find%20the%20Town%20Judge%20.cpp) [![Easy](https://img.shields.io/badge/easy-green)](https://leetcode.com/problems/find-the-town-judge/)
 
 ![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
 
 
-[![Easy](https://img.shields.io/badge/easy-red)](https://leetcode.com/problems/goat-latin/)
-[![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
+[![Easy](https://img.shields.io/badge/easy-green)](https://leetcode.com/problems/goat-latin/)
+[![MEDIUM](https://img.shields.io/badge/medium-orange)](https://leetcode.com/problems/palindrome-partitioning/)
 [![HARD](https://img.shields.io/badge/hard-red)](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 `string` 
