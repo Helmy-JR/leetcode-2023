@@ -51,6 +51,6 @@ public:
         }
 
         // the index of the node that can be reach to the two nodes with minimum distance
-        return node; //shoutout >> 7oskaaa
+        return node; //credit >> 7oskaaa
     }
 };
