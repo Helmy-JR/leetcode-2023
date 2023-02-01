@@ -34,4 +34,4 @@
 **29. [1626. Best Team With No Conflicts](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/33%20-%201626.%20Best%20Team%20With%20No%20Conflicts%20.cpp) [![MEDIUM](https://img.shields.io/badge/medium-yellow)](https://leetcode.com/problems/best-team-with-no-conflicts/)**  
 <hr>
 
-![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy.gif)
+![](https://github.com/Helmy-JR/leetcode-2023/blob/main/January/giphy%20(1).gif)
